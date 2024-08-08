@@ -2,7 +2,7 @@
 # 👨🏻‍💻 About Me
 
 - 👨🏽 I´m 21 years old.
-- 🎓 Currently taking a Computer Engineering course
+- 🎓 Computer Engineering course
 - 💻 I´m looking for work!
 - ⚡ My first programming language was Visual Basic 👀
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-David%20Marques-blue?style=plastic&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/davidsmarques)
