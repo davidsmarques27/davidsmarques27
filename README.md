@@ -1,3 +1,4 @@
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 <img src="./bannerV3.png"/>
 
 # Hey there, I'm David Marques! 👋
@@ -22,6 +23,13 @@
   ### Tools
   ![My Skills](https://skillicons.dev/icons?i=bitbucket,blender,dotnet,git,postman,vscode)
   <br>
+
+
+  
+<i class="devicon-apache-plain colored"></i>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" />
+                 
 
 ## 💡 Goals & Projects
 
