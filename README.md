@@ -26,10 +26,8 @@
 
 
   
-<i class="devicon-apache-plain colored"></i>
-
-
-                 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" h="48px" w="48px" />
+                           
 
 ## 💡 Goals & Projects
 
