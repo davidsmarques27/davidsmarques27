@@ -1,6 +1,4 @@
 <img src="./bannerV3.png"/>
-# Hey there, I'm David Marques! 👋
-
 ## 👨🏻‍💻 About Me
 
 - 👨🏽 I´m 22 years old.
