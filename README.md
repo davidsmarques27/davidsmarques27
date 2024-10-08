@@ -23,12 +23,7 @@
   ### Tools
   ![My Skills](https://skillicons.dev/icons?i=bitbucket,blender,dotnet,git,postman,vscode)
   <br>
-
-
-  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" height="48px" width="48px" />
                            
-
 ## 💡 Goals & Projects
 
 Driven to create impactful projects by merging design finesse with advanced technology. I'm open to collaborations and eager to expand my network in this ever-evolving industry.
